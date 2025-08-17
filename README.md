@@ -276,7 +276,7 @@ See `/notebooks/` and `/Output/` for:
 Questions, issues, PRs welcome!  
 Fork, star, or raise issues for feature requests.
 
-**Email:** [your email/contact here]
+**Email:** [ai.yuvaraj21@gmail.com]
 
 ---
 

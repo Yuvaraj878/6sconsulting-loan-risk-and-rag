@@ -210,7 +210,7 @@ This project is licensed under the Apache 2.0 License.
 
 ## 📫 Contact
 
-For questions or support, open an issue or contact [your email/contact].
+For questions or support, open an issue or contact [ai.yuvaraj21@gmail.com].
 
 ---
 
